@@ -24,3 +24,5 @@
 
 [11.Promise](./11.Promise.md)
 
+[12.Promise封装读取文件](./12.Promise封装读取文件.md)
+
